@@ -6,3 +6,5 @@ def test_score():
     assert greed_is_good.score([2, 4, 4, 5, 4]) == 450
     assert greed_is_good.score([1, 1, 1, 1, 1]) == 1200
     assert greed_is_good.score([3, 2, 6, 5, 6, 6]) == 650
+    assert greed_is_good.score([1, 1, 1, 1, 1, 1]) == 2000
+    assert greed_is_good.score([1, 1, 1, 5, 1, 5]) == 1200
