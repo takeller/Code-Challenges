@@ -168,6 +168,6 @@ You live in the city of Cartesia where all roads are laid out in a perfect grid.
 
 Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
 ```
-   [Tests](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/test_greed_is_good.py)    
-   [Solution](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/greed_is_good.py)
+   [Tests](https://github.com/takeller/Code-Challenges/blob/main/take_a_walk/test_take_a_walk.py)    
+   [Solution](https://github.com/takeller/Code-Challenges/blob/main/take_a_walk/take_a_walk.py)
 </details>
