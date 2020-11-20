@@ -152,6 +152,22 @@ Example scoring
  2 4 4 5 4   450:  400 (for three 4s) + 50 (for the 5)
 In some languages, it is possible to mutate the input to the function. This is something that you should never do. If you mutate the input, you will not be able to pass all the tests.
 ```
-   [Tests](https://github.com/takeller/Code-Challenges/blob/main/equal_sides_of_an_array/test_equal_sides.py)    
-   [Solution](https://github.com/takeller/Code-Challenges/blob/main/equal_sides_of_an_array/equal_sides.py)
+   [Tests](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/test_greed_is_good.py)    
+   [Solution](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/greed_is_good.py)
+</details>
+
+<details>
+  <summary>Take a Walk</summary>
+      
+   #### Problem Statement: 
+   ```You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You always walk only a single block for each letter (direction) and you know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
+
+Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
+
+You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You always walk only a single block for each letter (direction) and you know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
+
+Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
+```
+   [Tests](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/test_greed_is_good.py)    
+   [Solution](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/greed_is_good.py)
 </details>
