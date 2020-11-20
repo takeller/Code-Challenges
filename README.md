@@ -152,6 +152,6 @@ Example scoring
  2 4 4 5 4   450:  400 (for three 4s) + 50 (for the 5)
 In some languages, it is possible to mutate the input to the function. This is something that you should never do. If you mutate the input, you will not be able to pass all the tests.
 ```
-   [Tests](https://github.com/takeller/Code-Challenges/blob/main/equal_sides_of_an_array/test_equal_sides.py)    
-   [Solution](https://github.com/takeller/Code-Challenges/blob/main/equal_sides_of_an_array/equal_sides.py)
+   [Tests](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/test_greed_is_good.py)    
+   [Solution](https://github.com/takeller/Code-Challenges/blob/main/greed_is_good/greed_is_good.py)
 </details>
