@@ -1,4 +1,4 @@
-#### The purpose of this repo is to organize code challenges I complete. Each challenge with have the original problem statement, a link to the test file, and a link to my solution. 
+#### The purpose of this repo is to organize code challenges I complete. Challenges will have the original problem statement, a link to the test file, and a link to my solution. 
 
 <details>
   <summary>Directions Reducer</summary>
