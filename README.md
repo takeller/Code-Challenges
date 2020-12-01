@@ -209,6 +209,6 @@ validSolution([
   [3, 0, 0, 4, 8, 1, 1, 7, 9]
 ]); // => false
 ```
-   [Tests]()    
-   [Solution]()
+   [Tests](In Progress)    
+   [Solution](In Progress)
 </details>
